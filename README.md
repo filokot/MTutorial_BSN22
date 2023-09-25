@@ -11,12 +11,13 @@ At the conference web-site: https://buildsimnordic2022.ibpsa-nordic.org/modelica
 - Esben Fjerbæk, DTU Construct – Section for Energy and Services
 - Matthias van Hove, Ghent University – Department of Architecture and Urban Planning
 
-## Contributes to DTU Compute projects
+## Contributes to DTU projects
 
-- [Cool-Data](https://cool-data.dtu.dk/)
-- IEA Annex 56 IoT for Heat Pumps
+- Grand Solutions project [Cool-Data](https://cool-data.dtu.dk/) (Innovation Fund Denmark)
+- IEA Annex 56 [IoT for Heat Pumps](https://heatpumpingtechnologies.org/annex56/)
+- Interreg-ÖKS [Smart Cities Accelerator](https://cphsolutionslab.dk/en/projekter/samarbejder/smart-cities-accelerator)
+- Elforsk [Data-driven commissioning and building management](https://elforsk.dk/projektdatabase/effektiv-datadrevet-idriftsaettelse-funktionsanalyse-fokuseret-paa-energi-indeklima)
 
-## Materials are developed in collaboration with DTU Projects
+## Contacts
 
-- Interreg-ÖKS “Smart Cities Accelerator” 
-- Elforsk “Data-driven commissioning and building management”
+Konstantin Filonenko: kofi@dtu.dk
