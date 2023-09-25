@@ -1,1 +1,1 @@
-# Materials for Modelica tutorial following the BuildSim Nordic 2022
+# Modelica tutorial at the BuildSim Nordic 2022
