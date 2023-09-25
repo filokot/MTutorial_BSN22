@@ -13,7 +13,7 @@ At the conference web-site: https://buildsimnordic2022.ibpsa-nordic.org/modelica
 
 ## Contributes to DTU Compute projects
 
-- https://cool-data.dtu.dk/#Cool-Data
+- <https://cool-data.dtu.dk/>"Cool-Data"
 - IEA Annex 56 IoT for Heat Pumps
 
 ## Materials are developed in collaboration with DTU Projects
